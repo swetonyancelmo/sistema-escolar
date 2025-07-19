@@ -1,0 +1,14 @@
+C:\Users\Pichau\OneDrive\Documentos\projetos-pessoais\cadastroAlunos-dotnet\cadastroAlunos\bin\Debug\net9.0\cadastroAlunos.exe
+C:\Users\Pichau\OneDrive\Documentos\projetos-pessoais\cadastroAlunos-dotnet\cadastroAlunos\bin\Debug\net9.0\cadastroAlunos.deps.json
+C:\Users\Pichau\OneDrive\Documentos\projetos-pessoais\cadastroAlunos-dotnet\cadastroAlunos\bin\Debug\net9.0\cadastroAlunos.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Documentos\projetos-pessoais\cadastroAlunos-dotnet\cadastroAlunos\bin\Debug\net9.0\cadastroAlunos.dll
+C:\Users\Pichau\OneDrive\Documentos\projetos-pessoais\cadastroAlunos-dotnet\cadastroAlunos\bin\Debug\net9.0\cadastroAlunos.pdb
+C:\Users\Pichau\OneDrive\Documentos\projetos-pessoais\cadastroAlunos-dotnet\cadastroAlunos\obj\Debug\net9.0\cadastroAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Documentos\projetos-pessoais\cadastroAlunos-dotnet\cadastroAlunos\obj\Debug\net9.0\cadastroAlunos.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Documentos\projetos-pessoais\cadastroAlunos-dotnet\cadastroAlunos\obj\Debug\net9.0\cadastroAlunos.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Documentos\projetos-pessoais\cadastroAlunos-dotnet\cadastroAlunos\obj\Debug\net9.0\cadastroAlunos.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Documentos\projetos-pessoais\cadastroAlunos-dotnet\cadastroAlunos\obj\Debug\net9.0\cadastroAlunos.dll
+C:\Users\Pichau\OneDrive\Documentos\projetos-pessoais\cadastroAlunos-dotnet\cadastroAlunos\obj\Debug\net9.0\refint\cadastroAlunos.dll
+C:\Users\Pichau\OneDrive\Documentos\projetos-pessoais\cadastroAlunos-dotnet\cadastroAlunos\obj\Debug\net9.0\cadastroAlunos.pdb
+C:\Users\Pichau\OneDrive\Documentos\projetos-pessoais\cadastroAlunos-dotnet\cadastroAlunos\obj\Debug\net9.0\cadastroAlunos.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive\Documentos\projetos-pessoais\cadastroAlunos-dotnet\cadastroAlunos\obj\Debug\net9.0\ref\cadastroAlunos.dll
